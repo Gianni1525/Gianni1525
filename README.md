@@ -6,4 +6,18 @@ I have basic knowledge of Python and Bash (Command Line Base in GNU/Linux) . I u
 
 I make projects in Visual Studio Code in the Python programming language and sometimes .py and .bat scripts.
 
-My dream is to work in a company as a Cybersecurity and Systems Engineer and mitigate the vulnerabilities in its servers and systems like Elliot, the protagonist of the Mr. Robot series :) 
+My dream is to work in a company as a Cybersecurity and Systems Engineer and mitigate the vulnerabilities in its servers and systems like Elliot, the protagonist of the Mr. Robot series :)
+## 🛠️ Recursos / Herramientas
+
+- 💻 **Lenguajes:**  
+  - Batch (`.bat`)  
+  - Bash  
+  - Python  
+
+- 🖥️ **IDEs y editores favoritos:**  
+  - Visual Studio Code  
+  - Sublime Text  
+  - Visual Studio 2022 Community
+## 🔗 Contacto
+
+[![Discord](https://img.shields.io/badge/Discord-View%20Profile-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/888058303165378600)
