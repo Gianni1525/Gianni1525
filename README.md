@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-< alt="Gianni Monroy" src="https://github.com/user-attachments/assets/2013151b-6b58-4e64-9e18-94173f0dbe34">
+<img width="525" alt="Gianni Monroy" src="https://github.com/user-attachments/assets/2013151b-6b58-4e64-9e18-94173f0dbe34">
 
 
 Hello!!!, My name is Gianni Monroy student to Systems engineering, i love Alternative Rock, Metal, Electronic 90s Music, 2000s Music, Terror Files, and videogames haha...
@@ -12,4 +12,4 @@ I make projects in Visual Studio Code in the Python programming language and som
 My dream is to work in a company as a Cybersecurity and Systems Engineer and mitigate the vulnerabilities in its servers and systems like Elliot, the protagonist of the Mr. Robot series :) 
 
 
-< alt="Gianni Monroy" src="https://github.com/user-attachments/assets/e06ce509-fb47-4ef9-ad77-810a1fbf4b7b">
+<img width="525" alt="Gianni Monroy" src="https://github.com/user-attachments/assets/e06ce509-fb47-4ef9-ad77-810a1fbf4b7b">
