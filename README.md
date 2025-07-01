@@ -9,15 +9,25 @@ I make projects in Visual Studio Code in the Python programming language and som
 My dream is to work in a company as a Cybersecurity and Systems Engineer and mitigate the vulnerabilities in its servers and systems like Elliot, the protagonist of the Mr. Robot series :)
 ## 🛠️ Recursos / Herramientas
 
-- 💻 **Lenguajes:**  
-  - Batch (`.bat`)  
-  - Bash  
-  - Python  
+### 💻 Lenguajes utilizados
 
-- 🖥️ **IDEs y editores favoritos:**  
-  - Visual Studio Code  
-  - Sublime Text  
-  - Visual Studio 2022 Community
+| Lenguaje | Descripción |
+|----------|-------------|
+| 🟫 **Batch (.bat)** | Scripts de mantenimiento y automatización para Windows |
+| 🐚 **Bash** | Scripts para distros Linux (Debian, Ubuntu, etc.) |
+| 🐍 **Python** | Automatización futura y herramientas complementarias |
+| 🐧 **Shell** | Scripts compatibles con POSIX (sh, dash, etc.) |
+
+---
+
+### 🖥️ IDEs y editores favoritos
+
+| Editor / IDE | Descripción |
+|--------------|-------------|
+| 🧠 **Visual Studio Code** | Ligero, flexible y con muchas extensiones |
+| ✍️ **Sublime Text** | Rápido y minimalista para edición de texto y scripts |
+| 🧱 **Visual Studio 2022 Community** | Entorno completo para desarrollo en Windows (C#, .NET, etc.) |
+
 ## 🔗 Contacto
 
 ## 🔗 Contacto
