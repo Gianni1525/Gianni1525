@@ -28,3 +28,37 @@ My dream is to work in a company as a Cybersecurity and Systems Engineer and mit
 [![Reddit](https://img.shields.io/badge/Reddit-Relative__Money6474-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Relative_Money6474/)
 [![YouTube](https://img.shields.io/badge/YouTube-GamerX9496-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gamerx9496)
 [![Twitch](https://img.shields.io/badge/Twitch-gamerx1525-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gamerx1525)
+
+# 👋 Bienvenido a mi colección de scripts
+
+Hola, soy **Gianni1525**. Aquí encontrarás una serie de scripts útiles para mantenimiento y activación de sistemas Windows y Linux, siempre respetando licencias y con fines educativos.
+
+---
+
+## 🪟 Scripts para Windows
+
+| Repositorio | Descripción |
+|------------|-------------|
+| [windows-activation-script](https://github.com/Gianni1525/windows-activation-script) | Activación con claves genéricas |
+| [activar-windows-pro-workstation](https://github.com/Gianni1525/activar-windows-pro-workstation) | Activador para Pro for Workstation |
+| [activar-windows-pro](https://github.com/Gianni1525/activar-windows-pro) | Activador para Windows Pro |
+| [mantenimiento-windows](https://github.com/Gianni1525/mantenimiento-windows) | Limpieza y mantenimiento en Windows |
+
+---
+
+## 🐧 Scripts para Linux (Debian, Ubuntu, etc.)
+
+| Repositorio | Descripción |
+|------------|-------------|
+| [actualizar-distros-linux](https://github.com/Gianni1525/actualizar-distros-linux) | Script de actualización para distros |
+| [debian-mantenimiento](https://github.com/Gianni1525/debian-mantenimiento) | Mantenimiento general para Debian |
+
+---
+
+## ✅ Licencia y uso
+
+Todos los scripts están diseñados para fines educativos, de prueba o mantenimiento legal de sistemas. No se incluyen herramientas de activación ilegal ni se violan licencias.
+
+---
+
+Gracias por visitar mi perfil 🙌
