@@ -72,3 +72,5 @@ Todos los scripts están diseñados para fines educativos, de prueba o mantenimi
 ---
 
 Gracias por visitar mi perfil 🙌
+
+Certificación de https://www.netacad.com/es : https://www.credly.com/badges/cde5dfd2-4b5e-4b91-b316-ec6a8a5352d3/public_url
