@@ -2,6 +2,15 @@
 
 Hello!!!, My name is Gianni Monroy student to Systems engineering, i love Alternative Rock, Metal, Electronic 90s Music, 2000s Music, Terror Files, and videogames haha...
 
+ Age: ? 
+ Gender: Male 
+ Country: ? 
+ Height: 1.75 m 
+ Orientation: Heterosexual 
+ Likes: Movies, Music, Anime, Video Games,    Trivia, Mysteries, and Icebergs. 
+ Dislikes: None Favorite Food: Everything 
+🌟 What do you usually do?: Programming, IT Support, and Cybersecurity. What do you do when you're bored?: Watching movies or listening to music.
+
 I have basic knowledge of Python and Bash (Command Line Base in GNU/Linux) . I used Visual Studio Code and Visual Studio 2022 Community... I work on a PC and I'm angry that they're removing Visual Studio support. My english is regular but the best way to learn is with mistakes :)
 
 I make projects in Visual Studio Code in the Python programming language and sometimes .py and .bat scripts.
