@@ -16,6 +16,16 @@ I have basic knowledge of Python and Bash (Command Line Base in GNU/Linux) . I u
 I make projects in Visual Studio Code in the Python programming language and sometimes .py and .bat scripts.
 
 My dream is to work in a company as a Cybersecurity and Systems Engineer and mitigate the vulnerabilities in its servers and systems like Elliot, the protagonist of the Mr. Robot series :)
+
+Welcome to the Open Source Community!
+#TheLinuxFoundation
+#LinusTorvals
+#GNU Foundation
+
+https://www.gnu.org/home.es.html
+https://www.linuxfoundation.org/
+
+
 ## 🛠️ Recursos / Herramientas
 
 ### 💻 Lenguajes utilizados
