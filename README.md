@@ -55,8 +55,8 @@ https://www.linuxfoundation.org/
 [![Email 1](https://img.shields.io/badge/Email%20gianniyt5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianniyt5@gmail.com)
 [![Email 2](https://img.shields.io/badge/Email%20giannimonroy06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannimonroy06@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-Relative__Money6474-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Relative_Money6474/)
-[![YouTube](https://img.shields.io/badge/YouTube-GamerX9496-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gamerx9496)
-[![Twitch](https://img.shields.io/badge/Twitch-gamerx1525-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gamerx1525)
+[![YouTube](https://img.shields.io/badge/YouTube-GamerX9496-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CipherMind_Oficial)
+[![Twitch](https://img.shields.io/badge/Twitch-gamerx1525-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ciphermind_oficial)
 
 # 👋 Bienvenido a mi colección de scripts
 
